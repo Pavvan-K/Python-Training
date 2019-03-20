@@ -1,2 +1,2 @@
 # Python-Training
-All concepts in Python covered.
+All concepts in Core Python covered.
